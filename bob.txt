@@ -1,1 +1,2 @@
 Ceci est en test
+Et voici les modifications pour diffing
